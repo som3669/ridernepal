@@ -1,0 +1,96 @@
+@media only screen and (max-width: 992px) { 
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 778px) { 
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 600px)  and (max-device-width : 768px){
+
+
+ .booking_img {
+    margin-bottom: 20px;
+  }
+.quote_text{
+	padding-bottom: 60px;
+}
+.brand_padding{
+	padding: 20px 0px;
+}
+.brand_header p {
+    padding: 20px 150px;
+}
+.copyright{
+	margin-bottom: 0px;
+}
+.navigation h6 {
+    color: #a3a6b3;
+    text-align: left;
+}
+.navigation ul {
+    list-style: none;
+    padding: 0px;
+}
+.footer_logo {
+    width: 200px;
+}
+.navbar_button{
+	position: absolute;
+    /* top: 91%; */
+    top: 50px;
+    left: 738px;
+    float: right;
+
+}
+header .logo {
+    position: absolute;
+    top: -34px;
+}
+header .compare_list {
+    width: 120px;
+    float: right;
+    margin-left: 20px;
+}
+header .shop_list {
+    width: 100px;
+    padding-left: 15px;
+    float: right;
+}
+header .login_list {
+    margin-left: 15px;
+    width: 65px;
+    float: right;
+}
+header .nav_menu {
+       position: absolute;
+    /* right: -36%; */
+    /* top: 15%; */
+    left: 68%;
+    bottom: -280px;
+    width: 40%;
+    background: #2e375f;
+}
+header .nav-item {
+    text-align: center;
+    border-bottom: 1px solid #f3f3f38f;
+    background-color: #f7f7f7;
+    margin: 5px 0px;
+    border-radius: 5px;
+}
+header .top-menu .menu_list {
+    color: blue !important;
+    font-size: 12px;
+}
+
+}

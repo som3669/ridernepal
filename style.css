@@ -1,0 +1,327 @@
+
+
+
+.clear{
+	clear: both;
+}
+header .top_bar{
+	background-color: #2e375f;
+}
+header  .top-menu .menu_list{
+	color: white;
+	font-size: 12px;
+}
+header .navbarss{
+	text-align: center;
+	padding: 0px;
+}
+header .nav_menu{
+	position: relative;
+	left: 20%;
+}
+header .nav-item{
+	margin: 0px 5px;
+}
+header .compare_list{
+ width: 120px;
+ float: left;
+ margin-left: 50px;
+}
+header .compare{
+	width: 22px;
+	float: left;
+}
+header .compare_img{
+	width: 15px;
+	padding: 8px 0px;
+}
+header .compare_text{
+	width: 65px;
+	float: left;
+}
+header .compare_text p{
+	color: white;
+	font-size: 12px;
+	margin: 0px;
+	padding: 8px 0px;
+}
+header .compare_number{
+	width: 20px;
+	float: left;
+}
+header .compare_number p{
+	color: white;
+    background-color: #5969af;
+    padding: 1px 0px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 11px;
+    margin: 8px 0px;
+
+}
+header .shop_list{
+	width:100px;
+	padding-left: 15px;
+	float: left;
+}
+header .shop_cart{
+	float: left;
+	width: 20px;
+}
+header .shop_cart_icon{
+	color: white;
+	width:20px;
+	padding: 8px 0px;
+}
+header .shop_text{
+	width: 40px;
+	float: left;
+	text-align: center;
+}
+header .shop_text p{
+	color: white;
+	font-size: 12px;
+	margin: 0px;
+	padding: 8px 0px;
+}
+header .login_list{
+	margin-left: 15px;
+	width:65px;
+	float: left;
+}
+header .login_img{
+	width:25px;
+	float: left;
+}
+header .login_text{
+	width: 40px;
+	float: left;
+}
+header .login_text p{
+	color: white;
+	font-size: 12px;
+	margin: 0px;
+	padding: 8px 0px;
+}
+header .logo_col{
+	padding:0px;
+	text-align: center;
+}
+header .logo{
+	position: absolute;
+	top: -34px;
+}
+header .header_menus{
+    padding: 10px 0px;
+}
+.form-group {
+    margin-bottom: 0rem !important;
+}
+header .header_menus ul{
+	padding:20px 10px;
+	margin: 0px;
+	margin-left: 44px;
+}
+header .header_menus ul li{
+	display: inline;
+	padding:10px ;
+}
+header .header_menus ul li a{
+	text-decoration: none;
+	color: black;
+	font-weight: 500;
+}
+header .search_form{
+	padding: 22px 0px;
+}
+header .search_input{
+	background-color:#e6e9f3;
+}
+header .search_input::placeholder{
+	color: #2e375f;
+}
+header .search_icon{
+	position: absolute;
+    right: 8%;
+    top: 40%;
+    color: #2e375f;
+}
+
+/* section*/
+section .slider{
+	background-image: url(image/bike.jpg), linear-gradient(rgb(46 55 95),rgb(46 55 95));
+	height: 650px;
+	background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+
+}
+section .silder_text{
+	text-align:center;
+
+}
+section .silder_text .text_slide{
+	position: relative;
+	top: 250%;
+	color: white;
+}
+section .silder_text .text_slide p{
+	width: 50%;
+    position: absolute;
+    left: 24%;
+    text-align:center;
+}
+
+
+/*items*/
+.items_row{
+	position: relative;
+	top: -30px;
+}
+.items .items_col{
+	background-image: url(image/biker.jpg), linear-gradient(#b93409c2,#b93409eb);
+	height: 170px;
+	background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+
+}
+.items .items_col h4{
+	color: white;
+    position: absolute;
+    bottom: 0%;
+    padding: 0px 10px;
+}
+.items .items_col2{
+	background-image: url(image/streetwear.jpg), linear-gradient(#b93409c2,#b93409eb);
+	height: 170px;
+	background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+
+}
+.items .items_col2 h4{
+	color: white;
+    position: absolute;
+    bottom: 0%;
+    padding: 0px 10px;
+}
+.items .items_col3{
+	background-image: url(image/gloves.jpg), linear-gradient(#b93409c2,#b93409eb);
+	height: 170px;
+	background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+
+}
+.items .items_col3 h4{
+	color: white;
+    position: absolute;
+    bottom: 0%;
+    padding: 0px 10px;
+}
+
+
+
+
+.booking{
+	background-color:#f0f1f3;
+	padding-top: 40px;
+	padding-bottom: 80px;
+}
+.booking .service_text h3{
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.servicing_form label{
+	font-size: 14px;
+	font-weight: 500;
+}
+
+
+
+.opinion{
+
+}
+.opinion .opinion_col{
+	background-color: #d42700;
+}
+.opinion .opinion_col .opinion_text{
+	padding: 120px 80px;
+}
+.opinion .opinion_col .opinion_text h3{
+	color: white;
+	font-style: italic;
+	padding: 10px 0px;
+}
+.opinion .opinion_col .opinion_text p{
+	color: white;
+	font-size: 14px;
+}
+.quote{
+	background-color: #2e375f;
+}
+.quote_font{
+
+}
+.quote_text p{
+	padding: 40px;
+	color: white;
+	font-size:14px;
+}
+.quote_text h6{
+color: white;
+padding: 0px 40px;
+font-size:12px;
+}
+
+
+
+
+
+.brand{
+	margin-bottom: 80px;
+}
+.brand_header{
+
+	padding-top: 80px;
+	text-align:center;
+}
+.brand_header h2{
+ font-style: italic;
+}
+.brand_header p{
+	padding: 20px 200px;
+}
+.brand_padding{
+	margin-bottom: 20px;
+}
+
+
+.footer_content{
+	background-color: #1a1b20;
+	
+}
+.footer_row{
+	padding-bottom: 40px;
+	padding-top: 80px;
+}
+.footer_logo{
+	padding-bottom: 40px;
+}
+.navigation h6{
+	color: #a3a6b3;
+	text-align: center;
+}
+.navigation ul{
+	list-style: none;
+}
+.navigation ul li{
+	display: login_list;
+	
+}
+.navigation ul li a{
+	text-decoration: none;
+	color: white;
+}
